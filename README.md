@@ -5,7 +5,7 @@ Good idea for Claw Run
 ## 网址
 
 - [主页](https://run.claw.cloud)
--[us-west](https://us-west-1.run.claw.cloud/)
+- [us-west](https://us-west-1.run.claw.cloud/)
 
 
 ## 可用地区
